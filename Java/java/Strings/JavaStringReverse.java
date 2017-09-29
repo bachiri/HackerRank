@@ -1,4 +1,4 @@
-package ocp.preparation.chapter1;
+package java.Strings;
 
 import java.io.*;
 import java.time.Year;

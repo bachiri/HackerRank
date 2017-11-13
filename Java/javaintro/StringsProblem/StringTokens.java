@@ -11,6 +11,7 @@ import java.util.Scanner;
  * https://www.hackerrank.com/challenges/java-string-tokens/problem
  * <p>
  * Difficulty: Easy
+ * Author : Bachiri Taoufiq Abderrahman
  */
 public class StringTokens {
 

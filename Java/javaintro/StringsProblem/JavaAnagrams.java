@@ -9,6 +9,7 @@ import java.util.TreeMap;
  * Problem Link :https://www.hackerrank.com/challenges/java-anagrams/problem
  * <p>
  * Difficulty: Easy
+ * Author : Bachiri Taoufiq Abderrahman
  */
 
 public class JavaAnagrams {
